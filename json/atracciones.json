@@ -1,0 +1,15 @@
+{
+  "_id": {
+    "$oid": "665fa111a1b1c1a1a1a1a1a1"
+  },
+  "nombre": "Montana Rusa Infernal",
+  "tipo": "montana rusa",
+  "descripcion": "Recorrido con giros y caidas a alta velocidad",
+  "altura_minima": 130,
+  "capacidad": 24,
+  "estado": "operativa",
+  "tiempo_espera": 35,
+  "zona_id": {
+    "$oid": "665fa111a1b1c1a1a1a1b1b1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": {
+    "$oid": "665fa111a1b1c1a1a1a1e1e1"
+  },
+  "nombre": "Carlos",
+  "apellido": "Gomez",
+  "cargo": "Operador",
+  "horario_trabajo": "10:00 - 18:00",
+  "atracciones_asignadas": [
+    {
+      "$oid": "665fa111a1b1c1a1a1a1a1a1"
+    },
+    {
+      "$oid": "665fa111a1b1c1a1a1a1a1a2"
+    }
+  ]
+}

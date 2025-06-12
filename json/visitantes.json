@@ -1,0 +1,13 @@
+{
+  "_id": {
+    "$oid": "665fa111a1b1c1a1a1a1d1d1"
+  },
+  "nombre": "Laura",
+  "apellido": "Martinez",
+  "fecha_nacimiento": "2005-07-12",
+  "email": "laura.m@example.com",
+  "historial_visitas": [
+    "2025-05-01",
+    "2025-06-10"
+  ]
+}

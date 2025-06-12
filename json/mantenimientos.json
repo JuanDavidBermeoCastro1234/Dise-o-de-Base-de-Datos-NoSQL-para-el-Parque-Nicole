@@ -1,0 +1,19 @@
+{
+  "_id": {
+    "$oid": "665fa111a1b1c1a1a1a1g1g1"
+  },
+  "fecha": "2025-06-05",
+  "descripcion": "Revision general y lubricacion de piezas",
+  "costo": 250000,
+  "atraccion_id": {
+    "$oid": "665fa111a1b1c1a1a1a1a1a1"
+  },
+  "empleados": [
+    {
+      "$oid": "665fa111a1b1c1a1a1a1e1e1"
+    },
+    {
+      "$oid": "665fa111a1b1c1a1a1a1e1e2"
+    }
+  ]
+}

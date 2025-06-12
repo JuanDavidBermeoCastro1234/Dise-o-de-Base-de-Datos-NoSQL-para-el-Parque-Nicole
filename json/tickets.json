@@ -1,0 +1,12 @@
+{
+  "_id": {
+    "$oid": "665fa111a1b1c1a1a1a1c1c1"
+  },
+  "tipo": "VIP",
+  "precio": 120000,
+  "fecha_compra": "2025-06-01T00:00:00Z",
+  "fecha_validez": "2025-06-30T00:00:00Z",
+  "visitante_id": {
+    "$oid": "665fa111a1b1c1a1a1a1d1d1"
+  }
+}

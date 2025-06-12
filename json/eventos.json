@@ -1,0 +1,17 @@
+{
+  "_id": {
+    "$oid": "665fa111a1b1c1a1a1a1f1f1"
+  },
+  "nombre": "Show de Magia",
+  "descripcion": "Espectaculo para toda la familia",
+  "horario": "2025-06-15T15:00:00Z",
+  "ubicacion_tipo": "zona",
+  "ubicacion_id": {
+    "$oid": "665fa111a1b1c1a1a1a1b1b1"
+  },
+  "empleados_responsables": [
+    {
+      "$oid": "665fa111a1b1c1a1a1a1e1e1"
+    }
+  ]
+}
